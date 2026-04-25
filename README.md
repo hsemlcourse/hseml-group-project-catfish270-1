@@ -24,6 +24,8 @@
 
 **Датасет:** [Student Depression Dataset](https://www.kaggle.com/datasets/hopesb/student-depression-dataset/data)
 
+Датасет найден на Kaggle, содержит 27900 строк, 17 столбцов
+
 **Целевая переменная:** Depression (0/1)
 
 **Метрики:** ROC-AUC и F1-score
