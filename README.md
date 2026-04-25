@@ -1,9 +1,9 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/kOqwghv0)
-# ML Project — [Название проекта]
+# ML Project — Прогнозирование депрессии у учащихся
 
-**Студент:** [ФИО / Student ID]
+**Студент:** Щепотьев Андрей Александрович
 
-**Группа:** [Группа]
+**Группа:** БИВ238
 
 
 ## Оглавление
@@ -20,11 +20,13 @@
 
 <!-- Кратко опишите задачу: что предсказываем, какой датасет, метрика качества -->
 
-**Задача:** [Классификация / Регрессия / Кластеризация / ...]
+**Задача:** бинарная классификация
 
-**Датасет:** [Название и источник датасета]
+**Датасет:** [Student Depression Dataset](https://www.kaggle.com/datasets/hopesb/student-depression-dataset/data)
 
-**Целевая метрика:** [Accuracy / F1 / RMSE / ...]
+**Целевая переменная:** Depression (0/1)
+
+**Метрики:** ROC-AUC и F1-score
 
 
 ## Структура репозитория
