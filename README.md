@@ -42,10 +42,16 @@
 ├── notebooks
 │   ├── 01_eda.ipynb            # EDA
 │   ├── 02_baseline.ipynb       # Baseline-модель
+│   └── 03_experiments.ipynb    # Эксперименты и ablation study
 ├── presentation                # Презентация для защиты
 ├── report
+│   ├── images                  # Изображения для отчёта
+│   └── report.md               # Финальный отчёт
 ├── src
+│   ├── preprocessing.py        # Предобработка данных
+│   └── modeling.py             # Обучение и оценка моделей
 ├── tests
+│   └── test.py                 # Тесты пайплайна
 ├── requirements.txt
 └── README.md
 ```
